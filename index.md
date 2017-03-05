@@ -9,7 +9,7 @@ My work mainly focusses on semantic relation extraction and semantic parsing.
 More in general I am interested in supervised and unsupervised neural network approaches (a.k.a. *deep learning*) to natural language understanding.
 
 
-Here in my [CV]({{site.baseurl}}/{{site.cv}}) and here is a quick [background](pages/background).
+Here is my [CV]({{site.baseurl}}/{{site.cv}}) and here is a quick [background](pages/background).
 
 If you need to find me try Science Park 107 (F2.11).
 
