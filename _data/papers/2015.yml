@@ -1,0 +1,107 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  # img: mtmpbml2015
+  title: On the Impact of Entity Linking in Microblog Real-time Filtering
+  authors: Giacomo Berardi, Diego Ceccarelli, Andrea Esuli, Diego Marcheggiani
+  doc-url: http://www.esuli.it/publications/SAC2015c.pdf
+  booktitle: Proceedings of the 30th Annual {ACM} Symposium on Applied Computing (SAC)
+  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
+  code: https://github.com/giacbrd/CipCipPy
+  # poster: /posters/mtmpbml2015.pdf
+  venue: conference
+
+  abstract: >
+    Microblogging is a model of content sharing in which the temporal locality of posts with respect to important events, either of foreseeable or unforeseeable nature, makes applications of real-time filtering of great practical interest.
+    We propose the use of Entity Linking (EL) in order to improve the retrieval effectiveness, by enriching the representation of microblog posts and filtering queries. 
+    EL is the process of recognizing in an unstructured text the mention of relevant entities described in a knowledge base. 
+    EL of short pieces of text is a difficult task, but it is also a scenario in which the information EL adds to the text can have a substantial impact on the retrieval process.
+    We implement a start-of-the-art filtering method, based on the best systems from the TREC Microblog track real-time adhoc retrieval and filtering tasks, and extend it with a Wikipedia-based EL method. 
+    Results show that the use of EL significantly improves over non-EL based versions of the filtering methods.
+  bibtex: >
+    @inproceedings{berardiCEM15,
+      author    = {Giacomo Berardi and
+                   Diego Ceccarelli and
+                   Andrea Esuli and
+                   Diego Marcheggiani},
+      title     = {On the impact of entity linking in microblog real-time filtering},
+      booktitle = {Proceedings of the 30th Annual {ACM} Symposium on Applied Computing,
+                   Salamanca, Spain, April 13-17, 2015},
+      pages     = {1066--1071},
+      year      = {2015},
+    }
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  # img: icassp2015
+  title: Word Embeddings Go to Italy - A Comparison of Models and Training Datasets
+  authors: Giacomo Berardi, Andrea Esuli, Diego Marcheggiani
+  booktitle: Proceedings of the 6th Italian Information Retrieval Workshop (IIR)
+  doc-url: http://ceur-ws.org/Vol-1404/paper_11.pdf
+  # draft: /papers/icassp2015.pdf
+  data: http://hlt.isti.cnr.it/wordembeddings/ 
+  # poster:
+  venue: workshop
+  abstract: >
+    In this paper we present some preliminary results on the generation of word embeddings for the Italian language. 
+    We compare two popular word representation models, word2vec and GloVe, and train them on two datasets with different stylistic properties. 
+    We test the generated word embeddings on a word analogy test derived from the one originally proposed for word2vec, adapted to capture some of the linguistic aspects that are specific of Italian.
+    Results show that the tested models are able to create syntactically and semantically meaningful word embeddings despite the higher morphological complexity of Italian with respect to English. 
+    Moreover, we have found that the stylistic properties of the training dataset plays a relevant role in the type of information captured by the produced vectors.
+  bibtex: >
+    @inproceedings{berardiEM15,
+      author    = {Giacomo Berardi and
+                   Andrea Esuli and
+                   Diego Marcheggiani},
+      title     = {Word Embeddings Go to Italy: {A} Comparison of Models and Training
+                   Datasets},
+      booktitle = {Proceedings of the 6th Italian Information Retrieval Workshop, Cagliari,
+                   Italy, May 25-26, 2015.},
+      year      = {2015},
+      url       = {http://ceur-ws.org/Vol-1404/paper_11.pdf}
+      
+    }
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  # img: icassp2015
+  title: A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining
+  authors: Salud M. Jiménez Zafra, Giacomo Berardi, Andrea Esuli, Diego Marcheggiani, Maria Teresa Martín-Valdivia, Alejandro Moreo Fernández
+  booktitle: Proceedings of the 2015 Conference on Empirical Methods in Natural
+                   Language Processing (EMNLP)
+  doc-url: http://aclweb.org/anthology/D/D15/D15-1302.pdf
+  # draft: /papers/icassp2015.pdf
+  data: http://hlt.isti.cnr.it/trip-maml/
+  # poster:
+  venue: workshop
+  abstract: >
+
+    We present the Trip-MAML dataset, a Multi-Lingual dataset of hotel reviews that have been manually annotated at the sentence-level with Multi-Aspect sentiment labels. 
+    This dataset has been built as an extension of an existent English-only dataset, adding documents written in Italian and Spanish. 
+    We detail the dataset construction process, covering the data gathering, selection, and annotation. 
+    We present inter-annotator agreement figures and baseline experimental results, comparing the three languages. 
+    Trip-MAML is a multi-lingual dataset for aspect-oriented opinion mining that enables researchers (i) to face the problem on languages other than English and (ii) to the experiment the application of cross-lingual learning methods to the task.
+  bibtex: >
+    @inproceedings{ZafraBEMMF15,
+      author    = {Salud M. Jim{\'{e}}nez Zafra and
+                   Giacomo Berardi and
+                   Andrea Esuli and
+                   Diego Marcheggiani and
+                   Maria Teresa Mart{\'{\i}}n{-}Valdivia and
+                   Alejandro Moreo Fern{\'{a}}ndez},
+      title     = {A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining},
+      booktitle = {Proceedings of the 2015 Conference on Empirical Methods in Natural
+                   Language Processing, {EMNLP} 2015, Lisbon, Portugal, September 17-21,
+                   2015},
+      pages     = {2533--2538},
+      year      = {2015},
+      url       = {http://aclweb.org/anthology/D/D15/D15-1302.pdf}
+    }

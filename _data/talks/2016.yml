@@ -1,0 +1,29 @@
+-
+  layout: talk
+  selected: y
+  year: 2016
+  # event: 23/02/2015, 9am, Science Park G4.15
+  # img: 23-02-2015-uva-ull-sampling
+  title: Recurrent Neural Networks and Encoder-Decoder Models
+  authors: Diego Marcheggiani
+  doc-url: /slides/ULL/RNN.pdf
+  slides: /slides/ULL/RNN.pdf
+  abstract: >
+    I discuss topics that range from the basis of representation learning for text, to sequence to sequence (seq2seq) neural models.
+  about: >
+    Guest lecture for Ivan Titov's course on <a href="https://sites.google.com/site/unsupnlp2016/">Unsupervised Language Learning</a> at UvA.
+
+-
+  layout: talk
+  selected: y
+  year: 2016
+  # event: 23/02/2015, 9am, Science Park G4.15
+  # img: 23-02-2015-uva-ull-sampling
+  title: Memory Networks and Neural Turing Machines
+  authors: Diego Marcheggiani
+  doc-url: /slides/ULL/MN_NTM.pdf
+  slides: /slides/ULL/MN_NTM.pdf
+  abstract: >
+    I discuss memory augmented neural networks such as Memory Networks and Neural Turing Machines.
+  about: >
+    Guest lecture for Ivan Titov's course on <a href="https://sites.google.com/site/unsupnlp2016/">Unsupervised Language Learning</a> at UvA.

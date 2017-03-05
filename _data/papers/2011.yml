@@ -1,0 +1,35 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2011
+  # img: mtsummit2011
+  title: ISTI@TREC Microblog Track 2011 Exploring the Use of Hashtag Segmentation
+               and Text Quality Ranking
+  authors: Giacomo Berardi, Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
+  booktitle: Proceedings of The Twentieth Text REtrieval Conference (TREC)
+  doc-url: http://trec.nist.gov/pubs/trec20/papers/NEMIS_ISTI_CNR.microblog.update.pdf
+  # booktitle-url: http://www.mt-archive.info/MTS-2011-TOC.htm
+  venue: conference
+  code: https://github.com/giacbrd/CipCipPy
+  abstract: >
+    In the first year of the TREC Micro Blog track, our participation has focused on
+    building from scratch an IR system based on the Whoosh IR library. Though the design
+    of our system (CipCipPy) is pretty standard it includes three ad-hoc solutions for the
+    track (i) a dedicated indexing function for hashtags that automatically recognizes the
+    distinct words composing an hashtag, (ii) expansion of tweets based on the title of any
+    referred Web page, and (iii) a tweet ranking function that ranks tweets in results by
+    their content quality, which is compared against a reference corpus of Reuters news. In
+    this preliminary paper we describe all the components of our system, and the efficacy
+    scored by our runs. The CipCipPy system is available under a GPL license.
+  bibtex: >
+    @inproceedings{BerardiEMS11,
+      author    = {Giacomo Berardi and
+                   Andrea Esuli and
+                   Diego Marcheggiani and
+                   Fabrizio Sebastiani},
+      title     = {ISTI@TREC Microblog Track 2011 Exploring the Use of Hashtag Segmentation
+                   and Text Quality Ranking},
+      booktitle = {Proceedings of The Twentieth Text REtrieval Conference, ({TREC})},
+      year      = {2011}
+    }

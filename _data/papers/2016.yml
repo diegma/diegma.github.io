@@ -1,0 +1,36 @@
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2016
+  # img: mtmpbml2015
+  title: Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations
+  authors: Diego Marcheggiani, Ivan Titov
+  doc-url: https://transacl.org/ojs/index.php/tacl/article/viewFile/761/190
+  journal: Transaction of the ACL (TACL)
+  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
+  code: https://github.com/diegma/relation-autoencoder
+  slides: /slides/acl16.pdf
+  # poster: /posters/mtmpbml2015.pdf
+  venue: journal
+
+  abstract: >
+    We present a method for unsupervised open-domain relation discovery. 
+    In contrast to previous (mostly generative and agglomerative clustering) approaches, our model relies on rich contextual features and makes minimal independence assumptions. 
+    The model is composed of two parts: a feature-rich relation extractor, which predicts a semantic relation between two entities, and a factorization model, which reconstructs arguments (i.e., the entities) relying on the predicted relation. 
+    The two components are estimated jointly so as to minimize errors in recovering arguments. 
+    We study factorization models inspired by previous work in relation factorization and selectional preference modeling. 
+    Our models substantially outperform the generative and agglomerative-clustering counterparts and achieve state-of-the-art performance.
+  bibtex: >
+    @article{DBLP:journals/tacl/MarcheggianiT16,
+      author    = {Diego Marcheggiani and
+                   Ivan Titov},
+      title     = {Discrete-State Variational Autoencoders for Joint Discovery and Factorization
+                   of Relations},
+      journal   = {{TACL}},
+      volume    = {4},
+      pages     = {231--244},
+      year      = {2016},
+      url       = {https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/761},
+    }
+

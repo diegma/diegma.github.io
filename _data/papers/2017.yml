@@ -1,0 +1,41 @@
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2017
+  # img: mtmpbml2015
+  title: A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling
+  authors: Diego Marcheggiani, Anton Frolov, Ivan Titov
+  doc-url: http://arxiv.org/abs/1701.02593
+  journal: Arxiv
+  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
+  code: https://github.com/diegma/neural-dep-srl
+  # slides: /slides/acl16.pdf
+  # poster: /posters/mtmpbml2015.pdf
+  venue: journal
+
+  abstract: >
+    We introduce a simple and accurate neural model for dependency-based semantic role labeling. 
+    Our model predicts predicate-argument dependencies relying on states of a bidirectional LSTM encoder. 
+    The semantic role labeler achieves respectable performance on English even without any kind of syntactic information and only using local inference. 
+    However, when automatically predicted part-of-speech tags are provided as input, it substantially outperforms all previous local models and approaches the best reported results on the CoNLL-2009 dataset. 
+    Syntactic parsers are unreliable on out-of-domain data, so standard (i.e. syntactically-informed) SRL models are hindered when tested in this setting. 
+    Our syntax-agnostic model appears more robust, resulting in the best reported results on the standard out-of-domain test set.
+  bibtex: >
+    @article{MarcheggianiFT17,
+      author    = {Diego Marcheggiani and
+                   Anton Frolov and
+                   Ivan Titov},
+      title     = {A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based
+                   Semantic Role Labeling},
+      journal   = {CoRR},
+      volume    = {abs/1701.02593},
+      year      = {2017},
+      url       = {http://arxiv.org/abs/1701.02593},
+      timestamp = {Wed, 01 Feb 2017 17:47:56 +0100},
+      biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/MarcheggianiFT17},
+      bibsource = {dblp computer science bibliography, http://dblp.org}
+    }
+
+
+

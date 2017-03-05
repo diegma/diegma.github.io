@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+I obtained my PhD from the University of Venice (Italy) in June 2014.
+
+From September 2009 to July 2015 I have worked as a researcher in the Human Language Technology group at the [Istituto di Scienza e Tecnologie dell'Informazione](http://www.isti.cnr.it) in Pisa, under the guidance of [Fabrizio Sebastiani](http://nmis.isti.cnr.it/sebastiani/) and [Andrea Esuli](http://www.esuli.it).
+
+In 2009, I graduated from the University of Pisa (Italy) with a Master degree in computer science.
+
+I obtained my BSc degree in computer science from the Universita degli Studi di Perugia (Italy) in 2006.

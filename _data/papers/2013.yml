@@ -1,0 +1,31 @@
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2013
+  # img: wmt2013
+  title: An Enhanced CRFs-based System for Information Extraction from Radiology Reports
+  authors: Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
+  journal: Journal of Biomedical Informatics
+  doc-url: http://nmis.isti.cnr.it/sebastiani/Publications/JBI13.pdf
+  # booktitle-url: http://www.statmt.org/wmt13/
+  #code: https://github.com/wilkeraziz/chisel
+  # slides: /slides/wmt2013.pdf
+  venue: journal
+  abstract: >
+    We discuss the problem of performing information extraction from free-text radiology reports via supervised learning. 
+    In this task, segments of text (not necessarily coinciding with entire sentences, and possibly crossing sentence boundaries) need to be annotated with tags representing concepts of interest in the radiological domain. 
+    In this paper we present two novel approaches to IE for radiology reports: (i) a cascaded, two-stage method based on pipelining two taggers generated via the well known linear-chain conditional random fields (LC-CRFs) learner and (ii) a confidence-weighted ensemble method that combines standard LC-CRFs and the proposed two-stage method. We also report on the use of “positional features”, a novel type of feature intended to aid in the automatic annotation of texts in which the instances of a given concept may be hypothesized to systematically occur in specific areas of the text. We present experiments on a dataset of mammography reports in which the proposed ensemble is shown to outperform a traditional, single-stage CRFs system in two different, applicatively interesting scenarios.
+  bibtex: >
+    @article{EsuliMS13,
+      author    = {Andrea Esuli and
+                   Diego Marcheggiani and
+                   Fabrizio Sebastiani},
+      title     = {An enhanced CRFs-based system for information extraction from radiology
+                   reports},
+      journal   = {Journal of Biomedical Informatics},
+      volume    = {46},
+      number    = {3},
+      pages     = {425--435},
+      year      = {2013},
+    }

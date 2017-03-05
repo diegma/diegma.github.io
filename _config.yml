@@ -1,0 +1,35 @@
+# Site settings
+exclude: [README.md]
+title: Diego Marcheggiani
+email: diego.marcheggiani@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Here you will find details about my work.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://diegma.github.io" # the base hostname & protocol for your site
+twitter_username: DieEmme
+github_username:  diegma
+#paginate: 3
+
+# CV
+cv: "cv/DMCV.pdf"
+
+# current department
+current_department: ILLC
+departamental_page: http://diegma.github.io/dcs-site
+current_dpt_email: marcheggiani@uva.nl
+
+# useful links
+# poesia: http://poesiaehcoisadepoeta.blogspot.com
+google_scholar_url: https://scholar.google.it/citations?user=5DqZ8l4AAAAJ&hl=en
+dcs_page: http://diegma.github.io/dcs-site
+# modist_url: http://staffwww.dcs.shef.ac.uk/people/L.Specia/projects/modist.html
+# lucia_specia: http://staffwww.dcs.shef.ac.uk/people/L.Specia
+ivan_titov: http://ivan-titov.org/
+# slpll_url: https://staff.fnwi.uva.nl/k.simaan/research_all.html
+illc_url: http://www.illc.uva.nl
+uva_url: http://www.uva.nl/en/home
+
+ivantitovstyle: Ivan Titov
+
+# Build settings
+markdown: kramdown
