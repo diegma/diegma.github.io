@@ -39,7 +39,7 @@
   paper-type: article
   selected: y
   year: 2017
-  img: Marcheggiani17b
+  id: Marcheggiani17b
   title: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
   authors: Diego Marcheggiani, Ivan Titov
   doc-url: https://arxiv.org/abs/1703.04826

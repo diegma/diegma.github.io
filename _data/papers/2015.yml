@@ -3,7 +3,7 @@
   paper-type: inproceedings
   selected: y
   year: 2015
-  img: berardiCEM15
+  id: berardiCEM15
   title: On the Impact of Entity Linking in Microblog Real-time Filtering
   authors: Giacomo Berardi, Diego Ceccarelli, Andrea Esuli, Diego Marcheggiani
   doc-url: http://www.esuli.it/publications/SAC2015c.pdf
