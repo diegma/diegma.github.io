@@ -3,15 +3,12 @@
   paper-type: article
   selected: y
   year: 2017
-  # img: mtmpbml2015
+  id: MarcheggianiFT17
   title: A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling
   authors: Diego Marcheggiani, Anton Frolov, Ivan Titov
   doc-url: http://arxiv.org/abs/1701.02593
   journal: Arxiv
-  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
   code: https://github.com/diegma/neural-dep-srl
-  # slides: /slides/acl16.pdf
-  # poster: /posters/mtmpbml2015.pdf
   venue: journal
 
   abstract: >
@@ -42,17 +39,12 @@
   paper-type: article
   selected: y
   year: 2017
-  # img: mtmpbml2015
+  img: Marcheggiani17b
   title: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
   authors: Diego Marcheggiani, Ivan Titov
   doc-url: https://arxiv.org/abs/1703.04826
   journal: Arxiv
-  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
-  # code: https://github.com/diegma/neural-dep-srl
-  # slides: /slides/acl16.pdf
-  # poster: /posters/mtmpbml2015.pdf
   venue: journal
-
   abstract: >
     Semantic role labeling (SRL) is the task of identifying the predicate-argument structure of a sentence. 
     It is typically regarded as an important step in the standard natural language processing pipeline, providing information to downstream tasks such as information extraction and question answering. 
@@ -68,8 +60,7 @@
       journal   = {CoRR},
       volume    = {abs/1703.04826},
       year      = {2017},
-      url       = {https://arxiv.org/abs/1703.04826},
-
+      url       = {https://arxiv.org/abs/1703.04826}
     }
 
 

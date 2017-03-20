@@ -3,14 +3,11 @@
   paper-type: article
   selected: y
   year: 2013
-  # img: wmt2013
+  id: EsuliMS13
   title: An Enhanced CRFs-based System for Information Extraction from Radiology Reports
   authors: Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
   journal: Journal of Biomedical Informatics
   doc-url: http://nmis.isti.cnr.it/sebastiani/Publications/JBI13.pdf
-  # booktitle-url: http://www.statmt.org/wmt13/
-  #code: https://github.com/wilkeraziz/chisel
-  # slides: /slides/wmt2013.pdf
   venue: journal
   abstract: >
     We discuss the problem of performing information extraction from free-text radiology reports via supervised learning. 

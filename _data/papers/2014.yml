@@ -3,28 +3,17 @@
   paper-type: inproceedings
   selected: y
   year: 2014
-  # img: emnlp2014
+  id: MarcheggianiA14
   title: An Experimental Comparison of Active Learning Strategies for Partially Labeled Sequences
   authors: Diego Marcheggiani, Thierry Artières
   booktitle: Proceedings of the 2014 Conference on Empirical Methods on Natural Language Processing (EMNLP)
   doc-url: http://aclweb.org/anthology/D/D14/D14-1097.pdf
-  # booktitle-url: http://emnlp2014.org
-  #code: https://github.com/wilkeraziz/chisel
-  # talk: https://www.youtube.com/watch?v=Y7FMHGoceCA&spfreload=10
-  # slides: /slides/emnlp2014.pdf
   poster: /posters/emnlp14.pdf
   venue: conference
   abstract: >
     Active learning (AL) consists of asking human annotators to annotate automatically selected data that are assumed to bring the most benefit in the creation of a classifier. 
     AL allows to learn accurate systems with much less annotated data than what is required by pure supervised learning algorithms, hence limiting the tedious effort of annotating a large collection of data.
     We experimentally investigate the behavior of several AL strategies for sequence labeling tasks (in a partially-labeled scenario) tailored on Partially-Labeled Conditional Random Fields, on four sequence labeling tasks: phrase chunking, part-of-speech tagging, named-entity recognition, and bio-entity recognition.
-  # errata: >
-  #   In the introduction, we comment about works that propose some form of exact search. In some cases, authors have proposed algorithms whose applicability seems mostly limited to toy models, such as Aziz et al. (2013). In other cases, authors modified the model in different (non-obvious) ways (e.g. monotone translation, compact rule sets, lower-order LM, entropy pruning for LM) enabling exact search. We mistakenly listed Iglesias et al (2009) amongst the former group, thus misrepresenting their contribution.
-  #   A more accurate wording would be:
-  #   <blockquote>
-  #   To date, most attempts were limited to short sentences and/or somewhat toy models trained with artificially small datasets (Germann et al., 2001; Aziz et al., 2013). Other work has employed less common approximations to the model reducing its search space complexity (Kumar et al., 2006; Iglesias et al., 2009; Chang and Collins, 2011; Rush and Collins, 2011).
-  #   </blockquote>
-  #   I thank Gonzalo Iglesias for kindly warning me about this problem.
   bibtex: >
     @inproceedings{MarcheggianiA14,
       author    = {Diego Marcheggiani and
@@ -43,12 +32,11 @@
   paper-type: inproceedings
   selected: y
   year: 2014
-  # img: iwslt2014
+  id: MarcheggianiTE014
   title: Hierarchical Multi-label Conditional Random Fields for Aspect-Oriented Opinion Mining
   authors: Diego Marcheggiani, Oscar Täckström, Andrea Esuli, Fabrizio Sebastiani
   booktitle: Proceedings of the 36th European Conference on IR Research (ECIR)
   doc-url: http://soda.swedish-ict.se/5647/1/ECIR2014a.pdf
-  # booktitle-url: 
   data: http://nemis.isti.cnr.it/~marcheggiani/datasets/
   slides: /slides/SlidesECIR2014.pdf
   venue: conference

@@ -3,16 +3,13 @@
   paper-type: inproceedings
   selected: y
   year: 2015
-  # img: mtmpbml2015
+  img: berardiCEM15
   title: On the Impact of Entity Linking in Microblog Real-time Filtering
   authors: Giacomo Berardi, Diego Ceccarelli, Andrea Esuli, Diego Marcheggiani
   doc-url: http://www.esuli.it/publications/SAC2015c.pdf
   booktitle: Proceedings of the 30th Annual {ACM} Symposium on Applied Computing (SAC)
-  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
   code: https://github.com/giacbrd/CipCipPy
-  # poster: /posters/mtmpbml2015.pdf
   venue: conference
-
   abstract: >
     Microblogging is a model of content sharing in which the temporal locality of posts with respect to important events, either of foreseeable or unforeseeable nature, makes applications of real-time filtering of great practical interest.
     We propose the use of Entity Linking (EL) in order to improve the retrieval effectiveness, by enriching the representation of microblog posts and filtering queries. 
@@ -38,14 +35,12 @@
   paper-type: inproceedings
   selected: y
   year: 2015
-  # img: icassp2015
+  id: berardiEM15
   title: Word Embeddings Go to Italy - A Comparison of Models and Training Datasets
   authors: Giacomo Berardi, Andrea Esuli, Diego Marcheggiani
   booktitle: Proceedings of the 6th Italian Information Retrieval Workshop (IIR)
   doc-url: http://ceur-ws.org/Vol-1404/paper_11.pdf
-  # draft: /papers/icassp2015.pdf
   data: http://hlt.isti.cnr.it/wordembeddings/ 
-  # poster:
   venue: workshop
   abstract: >
     In this paper we present some preliminary results on the generation of word embeddings for the Italian language. 
@@ -72,18 +67,15 @@
   paper-type: inproceedings
   selected: y
   year: 2015
-  # img: icassp2015
+  id: ZafraBEMMF15
   title: A Multi-lingual Annotated Dataset for Aspect-Oriented Opinion Mining
   authors: Salud M. Jiménez Zafra, Giacomo Berardi, Andrea Esuli, Diego Marcheggiani, Maria Teresa Martín-Valdivia, Alejandro Moreo Fernández
   booktitle: Proceedings of the 2015 Conference on Empirical Methods in Natural
                    Language Processing (EMNLP)
   doc-url: http://aclweb.org/anthology/D/D15/D15-1302.pdf
-  # draft: /papers/icassp2015.pdf
   data: http://hlt.isti.cnr.it/trip-maml/
-  # poster:
   venue: workshop
   abstract: >
-
     We present the Trip-MAML dataset, a Multi-Lingual dataset of hotel reviews that have been manually annotated at the sentence-level with Multi-Aspect sentiment labels. 
     This dataset has been built as an extension of an existent English-only dataset, adding documents written in Italian and Spanish. 
     We detail the dataset construction process, covering the data gathering, selection, and annotation. 

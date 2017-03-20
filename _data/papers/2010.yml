@@ -3,16 +3,14 @@
   paper-type: inproceedings
   selected: y
   year: 2010
+  id: esuliMS10
   # img: eamt2010
   title: Sentence-Based Active Learning Strategies for Information Extraction
   authors: Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
   booktitle: Proceedings of the First Italian Information Retrieval Workshop (IIR)
   doc-url: http://nmis.isti.cnr.it/sebastiani/Publications/IIR10b.pdf
-  # booktitle-url: http://www.mt-archive.info/EAMT-2010-TOC.htm
   venue: workshop
-  # slides: http://www.mt-archive.info/EAMT-2010-Aziz-ppt.pdf
-  abstract: >
-    Given a classifier trained on relatively few training examples, active learning (AL) consists in ranking a set of unlabeled examples in terms of how informative they would be, if manually labeled, for retraining a (hopefully) better classifier. An important text learning task in which AL is potentially useful is information extraction (IE), namely, the task of identifying within a text the expressions that instantiate a given concept. We contend that, unlike in other text learning tasks, IE is unique in that it does not make sense to rank individual items (i.e., word occurrences) for annotation, and that the minimal unit of text that is presented to the annotator should be an entire sentence. In this paper we propose a range of active learning strategies for IE that are based on ranking individual sentences, and experimentally compare them on a standard dataset for named entity extraction.
+  abstract: Given a classifier trained on relatively few training examples, active learning (AL) consists in ranking a set of unlabeled examples in terms of how informative they would be, if manually labeled, for retraining a (hopefully) better classifier. An important text learning task in which AL is potentially useful is information extraction (IE), namely, the task of identifying within a text the expressions that instantiate a given concept. We contend that, unlike in other text learning tasks, IE is unique in that it does not make sense to rank individual items (i.e., word occurrences) for annotation, and that the minimal unit of text that is presented to the annotator should be an entire sentence. In this paper we propose a range of active learning strategies for IE that are based on ranking individual sentences, and experimentally compare them on a standard dataset for named entity extraction.
   bibtex: >
     @inproceedings{esuliMS10,
       author = {Andrea Esuli and
@@ -22,34 +20,31 @@
       booktitle = {Proceedings of the First Italian Information Retrieval
                    Workshop, ({IIR})},
       pages     = {41--45},
-      year      = {2010} }
-
+      year      = {2010} 
+    }
 -
   layout: paper
   paper-type: inproceedings
   selected: y
   year: 2010
-  # img: eamt2010
+  id: EsuliM010
   title: ISTI@ SemEval-2 task 8 Boosting-based Multiway Relation Classification
   authors: Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
   booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation (SemEval)
   doc-url: http://aclweb.org/anthology/S/S10/S10-1048.pdf
-  # booktitle-url: http://www.mt-archive.info/EAMT-2010-TOC.htm
   venue: workshop
-  # slides: http://www.mt-archive.info/EAMT-2010-Aziz-ppt.pdf
-  abstract: > 
-   We describe a boosting-based supervised learning approach to the “Multi-Way Classification of Semantic Relations between Pairs of Nominals” task #8 of SemEval-2. Participants were asked to determine which relation, from a set of nine relations plus “Other”, exists between two nominals, and also to determine the roles of the two nominals in the relation. Our participation has focused, rather than on the choice of a rich set of features, on the classification model adopted to determine the correct assignment of relation and roles.
+  abstract: We describe a boosting-based supervised learning approach to the Multi-Way Classification of Semantic Relations between Pairs of Nominals task 8 of SemEval-2. Participants were asked to determine which relation, from a set of nine relations plus “Other”, exists between two nominals, and also to determine the roles of the two nominals in the relation. Our participation has focused, rather than on the choice of a rich set of features, on the classification model adopted to determine the correct assignment of relation and roles.
   bibtex: >
     @inproceedings{EsuliM010,
-     author    = {Andrea Esuli and
-               Diego Marcheggiani and
-               Fabrizio Sebastiani},
-     title     = {ISTI@SemEval-2 Task 8 Boosting-Based Multiway Relation Classification},
-     booktitle = {Proceedings of the 5th International Workshop on Semantic Evaluation,
-               SemEval@ACL 2010, Uppsala University, Uppsala, Sweden, July 15-16,
-               2010},
-     pages     = {218--221},
-     year      = {2010},
-     url       = {http://aclweb.org/anthology/S/S10/S10-1048.pdf}
+       author    = {Andrea Esuli and
+                 Diego Marcheggiani and
+                 Fabrizio Sebastiani},
+       title     = {ISTI@SemEval-2 Task 8 Boosting-Based Multiway Relation Classification},
+       booktitle = {Proceedings of the 5th International Workshop on Semantic Evaluation,
+                 SemEval@ACL 2010, Uppsala University, Uppsala, Sweden, July 15-16,
+                 2010},
+       pages     = {218--221},
+       year      = {2010},
+       url       = {http://aclweb.org/anthology/S/S10/S10-1048.pdf}
     }
 

@@ -3,17 +3,14 @@
   paper-type: article
   selected: y
   year: 2016
-  # img: mtmpbml2015
+  id: MarcheggianiT16
   title: Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations
   authors: Diego Marcheggiani, Ivan Titov
   doc-url: https://transacl.org/ojs/index.php/tacl/article/viewFile/761/190
   journal: Transaction of the ACL (TACL)
-  # booktitle-url: http://ufal.mff.cuni.cz/pbml/104
   code: https://github.com/diegma/relation-autoencoder
   slides: /slides/acl16.pdf
-  # poster: /posters/mtmpbml2015.pdf
   venue: journal
-
   abstract: >
     We present a method for unsupervised open-domain relation discovery. 
     In contrast to previous (mostly generative and agglomerative clustering) approaches, our model relies on rich contextual features and makes minimal independence assumptions. 
@@ -32,5 +29,29 @@
       pages     = {231--244},
       year      = {2016},
       url       = {https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/761},
+    }
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  id: marcheggianiKT16
+  title: Unsupervised Induction of Shallow Semantic Representations with Feature­ Rich Models
+  authors: Diego Marcheggiani, Ehsan Khoddam, Ivan Titov
+  doc-url: http://www.ufjf.br/iccg9/files/2015/02/ICCG9_Book_of_Abstracts_v1.pdf
+  booktitle: Book of Abstracts of the 9th International Conference on Construction Grammar
+  slides: /slides/ICCG16.pdf
+  venue: conference
+  # abstract: >
+  bibtex: >
+    @inproceedings{marcheggianiKT16,
+      author = {Diego Marcheggiani, Ehsan Khoddam, Ivan Titov},
+      title = {Unsupervised Induction of Shallow Semantic Representations with Feature­ Rich Models},
+      booktitle = {Book of Abstracts of the 9th International Conference on Construction Grammar},
+      month = {October},
+      year = {2016},
+      address = {Juiz de Fora, Brazil},
+      url = {http://www.ufjf.br/iccg9/files/2015/02/ICCG9_Book_of_Abstracts_v1.pdf}
     }
 

@@ -2,8 +2,7 @@
   layout: talk
   selected: y
   year: 2016
-  # event: 23/02/2015, 9am, Science Park G4.15
-  # img: 23-02-2015-uva-ull-sampling
+  id: ULLRNN
   title: Recurrent Neural Networks and Encoder-Decoder Models
   authors: Diego Marcheggiani
   doc-url: /slides/ULL/RNN.pdf
@@ -17,8 +16,7 @@
   layout: talk
   selected: y
   year: 2016
-  # event: 23/02/2015, 9am, Science Park G4.15
-  # img: 23-02-2015-uva-ull-sampling
+  id: ULLMN
   title: Memory Networks and Neural Turing Machines
   authors: Diego Marcheggiani
   doc-url: /slides/ULL/MN_NTM.pdf
