@@ -5,8 +5,8 @@
   id: ULLRNN
   title: Recurrent Neural Networks and Encoder-Decoder Models
   authors: Diego Marcheggiani
-  doc-url: /slides/ULL/RNN.pdf
-  slides: /slides/ULL/RNN.pdf
+  doc-url: /slides/ULL2016/RNN.pdf
+  slides: /slides/ULL2016/RNN.pdf
   abstract: >
     I discuss topics that range from the basis of representation learning for text, to sequence to sequence (seq2seq) neural models.
   about: >
@@ -19,8 +19,8 @@
   id: ULLMN
   title: Memory Networks and Neural Turing Machines
   authors: Diego Marcheggiani
-  doc-url: /slides/ULL/MN_NTM.pdf
-  slides: /slides/ULL/MN_NTM.pdf
+  doc-url: /slides/ULL2016/MN_NTM.pdf
+  slides: /slides/ULL2016/MN_NTM.pdf
   abstract: >
     I discuss memory augmented neural networks such as Memory Networks and Neural Turing Machines.
   about: >
