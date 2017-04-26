@@ -8,6 +8,7 @@
     <a {% if include.paper.doc-url %} href="{{ include.paper.doc-url }}" {% endif %}>
       <strong>{{ include.paper.title }}</strong>
     </a>
+    <br>
     {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}
     {% case include.paper.paper-type %}
       {% when "inproceedings" %}

@@ -12,6 +12,7 @@ title: Publications
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 {% for year in sortedyears %}
+<br>
 ### {{ year }}
 {% for paper in hashes[year] %}
 {% include paper.html paper=paper %}

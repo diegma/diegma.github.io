@@ -63,6 +63,34 @@
       url       = {https://arxiv.org/abs/1703.04826}
     }
 
+-
+  layout: paper
+  paper-type: article
+  selected: y
+  year: 2017
+  id: Marcheggiani17c
+  title: Graph Convolutional Encoders for Syntax-aware Neural Machine Translation
+  authors: Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima’an
+  doc-url: https://arxiv.org/abs/1704.04675
+  journal: Arxiv
+  venue: journal
+  abstract: >
+    We present a simple and effective approach to incorporating syntactic structure into neural attention-based encoder-decoder models for machine translation. 
+    We rely on graph-convolutional networks (GCNs), a recent class of neural networks developed for modeling graph-structured data. 
+    Our GCNs use predicted syntactic dependency trees of source sentences to produce representations of words (i.e. hidden states of the encoder) that are sensitive to their syntactic neighborhoods. 
+    GCNs take word representations as input and produce word representations as output, so they can easily be incorporated as layers into standard encoders (e.g., on top of bidirectional RNNs or convolutional neural networks). 
+    We evaluate their effectiveness with English-German and English-Czech translation experiments for different types of encoders and observe substantial improvements over their syntax-agnostic versions in all the considered setups.
+  bibtex: >
+    @article{bastings2017graph,
+      title={Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
+      author={Bastings, Joost and Titov, Ivan and Aziz, Wilker and Marcheggiani, Diego and Sima'an, Khalil},
+      journal={arXiv preprint arXiv:1704.04675},
+      year={2017}
+      url = {https://arxiv.org/abs/1704.04675}
+    }
+
+
+
 
 
 
