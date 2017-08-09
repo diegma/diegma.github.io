@@ -7,9 +7,10 @@
   title: A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling
   authors: Diego Marcheggiani, Anton Frolov, Ivan Titov
   doc-url: http://arxiv.org/abs/1701.02593
-  booktitle: Proceedings of CoNLL (to appear)
+  booktitle: Proceedings of CoNLL
   code: https://github.com/diegma/neural-dep-srl
   venue: conference
+  slides: /slides/CoNLL17_slides.pdf
 
   abstract: >
     We introduce a simple and accurate neural model for dependency-based semantic role labeling. 
