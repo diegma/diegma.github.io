@@ -6,7 +6,7 @@
   id: MarcheggianiFT17
   title: A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling
   authors: Diego Marcheggiani, Anton Frolov, Ivan Titov
-  doc-url: http://arxiv.org/abs/1701.02593
+  doc-url: http://aclweb.org/anthology/K/K17/K17-1041.pdf
   booktitle: Proceedings of CoNLL
   code: https://github.com/diegma/neural-dep-srl
   venue: conference
@@ -20,20 +20,18 @@
     Syntactic parsers are unreliable on out-of-domain data, so standard (i.e. syntactically-informed) SRL models are hindered when tested in this setting. 
     Our syntax-agnostic model appears more robust, resulting in the best reported results on the standard out-of-domain test set.
   bibtex: >
-    @article{MarcheggianiFT17,
-      author    = {Diego Marcheggiani and
-                   Anton Frolov and
-                   Ivan Titov},
-      title     = {A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based
-                   Semantic Role Labeling},
-      journal   = {CoRR},
-      volume    = {abs/1701.02593},
+    @InProceedings{marcheggiani-frolov-titov:2017:CoNLL,
+      author    = {Marcheggiani, Diego  and  Frolov, Anton  and  Titov, Ivan},
+      title     = {A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling},
+      booktitle = {Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017)},
+      month     = {August},
       year      = {2017},
-      url       = {http://arxiv.org/abs/1701.02593},
-      timestamp = {Wed, 01 Feb 2017 17:47:56 +0100},
-      biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/MarcheggianiFT17},
-      bibsource = {dblp computer science bibliography, http://dblp.org}
+      address   = {Vancouver, Canada},
+      publisher = {Association for Computational Linguistics},
+      pages     = {411--420},
+      url       = {http://aclweb.org/anthology/K17-1041}
     }
+
 
 -
   layout: paper
@@ -43,10 +41,11 @@
   id: Marcheggiani17b
   title: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
   authors: Diego Marcheggiani, Ivan Titov
-  doc-url: https://arxiv.org/abs/1703.04826
-  booktitle: Proceedings of EMNLP (to appear)
+  doc-url: http://aclweb.org/anthology/D/D17/D17-1159.pdf
+  booktitle: Proceedings of EMNLP
   venue: conference
   code: https://github.com/diegma/neural-dep-srl
+  slides: /slides/EMNLP17_slides.pdf
   abstract: >
     Semantic role labeling (SRL) is the task of identifying the predicate-argument structure of a sentence. 
     It is typically regarded as an important step in the standard natural language processing pipeline, providing information to downstream tasks such as information extraction and question answering. 
@@ -55,15 +54,18 @@
     GCNs over syntactic dependency trees are used as sentence encoders, producing latent feature representations of words in a sentence and capturing information relevant to predicting the semantic representations. 
     We observe that GCN layers are complementary to LSTM ones: when we stack both GCN and LSTM layers, we obtain a substantial improvement over an already state-of-the-art LSTM SRL model, resulting in the best reported scores on the standard benchmark (CoNLL-2009) both for Chinese and English.
   bibtex: >
-    @article{Marcheggiani17b,
-      author    = {Diego Marcheggiani and
-                   Ivan Titov},
+    @InProceedings{marcheggiani-titov:2017:EMNLP2017,
+      author    = {Marcheggiani, Diego  and  Titov, Ivan},
       title     = {Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling},
-      journal   = {CoRR},
-      volume    = {abs/1703.04826},
+      booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+      month     = {September},
       year      = {2017},
-      url       = {https://arxiv.org/abs/1703.04826}
+      address   = {Copenhagen, Denmark},
+      publisher = {Association for Computational Linguistics},
+      pages     = {1507--1516},
+      url       = {https://www.aclweb.org/anthology/D17-1159}
     }
+
 
 -
   layout: paper
@@ -73,8 +75,8 @@
   id: Marcheggiani17c
   title: Graph Convolutional Encoders for Syntax-aware Neural Machine Translation
   authors: Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima’an
-  doc-url: https://arxiv.org/abs/1704.04675
-  booktitle: Proceedings of EMNLP (to appear)
+  doc-url: http://aclweb.org/anthology/D/D17/D17-1208.pdf
+  booktitle: Proceedings of EMNLP
   venue: conference
   abstract: >
     We present a simple and effective approach to incorporating syntactic structure into neural attention-based encoder-decoder models for machine translation. 
@@ -83,13 +85,18 @@
     GCNs take word representations as input and produce word representations as output, so they can easily be incorporated as layers into standard encoders (e.g., on top of bidirectional RNNs or convolutional neural networks). 
     We evaluate their effectiveness with English-German and English-Czech translation experiments for different types of encoders and observe substantial improvements over their syntax-agnostic versions in all the considered setups.
   bibtex: >
-    @article{bastings2017graph,
-      title={Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
-      author={Bastings, Joost and Titov, Ivan and Aziz, Wilker and Marcheggiani, Diego and Sima'an, Khalil},
-      journal={arXiv preprint arXiv:1704.04675},
-      year={2017}
-      url = {https://arxiv.org/abs/1704.04675}
+    @InProceedings{bastings-EtAl:2017:EMNLP2017,
+      author    = {Bastings, Joost  and  Titov, Ivan  and  Aziz, Wilker  and  Marcheggiani, Diego  and  Simaan, Khalil},
+      title     = {Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
+      booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+      month     = {September},
+      year      = {2017},
+      address   = {Copenhagen, Denmark},
+      publisher = {Association for Computational Linguistics},
+      pages     = {1947--1957},
+      url       = {https://www.aclweb.org/anthology/D17-1208}
     }
+
 
 -
   layout: paper

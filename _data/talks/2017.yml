@@ -1,0 +1,16 @@
+-
+  layout: talk
+  selected: y
+  year: 2017
+  id: TUTNNSRL
+  title: Neural Methods for Semantic Role Labeling
+  authors: Diego Marcheggiani
+  doc-url: /slides/TutorialNNforSRL.pdf
+  slides: /slides/TutorialNNforSRL.pdf
+  abstract: >
+    In this tutorial I present several neural architectures for the task of semantic role labeling. 
+    I begin with Hybrid symbolic/neural models to pass to syntax-agnostic neural models and finally Syntax-aware neural models.
+
+  about: >
+    This is the second part of the <a href="http://emnlp2017.net/tutorials/day1/1/srl.html">tutorial on semantic role labeling</a> at EMNLP 2017.
+
