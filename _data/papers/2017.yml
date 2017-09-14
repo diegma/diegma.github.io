@@ -107,7 +107,7 @@
   title: On the Effects of Low-Quality Training Data on Information Extraction from Clinical Reports
   authors: Diego Marcheggiani, Fabrizio Sebastiani
   doc-url: http://nmis.isti.cnr.it/sebastiani/Publications/JDIQ2017.pdf
-  journal: ACM Journal of Data and Information Quality (to appear)
+  journal: ACM Journal of Data and Information Quality
   venue: journal
   abstract: >
     In the last five years there has been a flurry of work on information extraction from clinical documents, i.e., on algorithms capable of extracting, from the informal and unstructured texts that are generated during everyday clinical practice, mentions of concepts relevant to such practice. 
@@ -118,6 +118,26 @@
     We do this by comparing the accuracy deriving from training data annotated by the authoritative coder (i.e., the one who has also annotated the test data, and by whose judgment we must abide), with the accuracy deriving from training data annotated by a different coder, equally expert in the subject matter. 
     The results indicate that, although the disagreement between the two coders (as measured on the training set) is substantial, the difference is (surprisingly enough) not always statistically significant. 
     While the dataset used in the present work originated in a clinical context, the issues we study in this work are of more general interest.
-  
+  bibtex: >
+    @article{Marcheggiani:2017:ELT:3139489.3106235,
+     author = {Marcheggiani, Diego and Sebastiani, Fabrizio},
+     title = {On the Effects of Low-Quality Training Data on Information Extraction from Clinical Reports},
+     journal = {ACM Journal of Data and Information Quality},
+     issue_date = {September 2017},
+     volume = {9},
+     number = {1},
+     month = sep,
+     year = {2017},
+     issn = {1936-1955},
+     pages = {1:1--1:25},
+     articleno = {1},
+     numpages = {25},
+     url = {http://doi.acm.org/10.1145/3106235},
+     doi = {10.1145/3106235},
+     acmid = {3106235},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {Information extraction, annotation quality, clinical narratives, machine learning, medical reports, radiology reports},
+    } 
 
 
