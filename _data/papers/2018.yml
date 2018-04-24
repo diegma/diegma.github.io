@@ -1,0 +1,27 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  id: MarcheggianiFT18
+  title: Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
+  authors: Diego Marcheggiani, Joost Bastings, Ivan Titov
+  doc-url: https://arxiv.org/pdf/1804.08313
+  booktitle: Proceedings of NAACL-HLT
+  venue: conference
+
+  abstract: >
+    Semantic representations have long been argued as potentially useful for enforcing meaning preservation and improving generalization performance of machine translation methods. 
+    In this work, we are the first to incorporate information about predicate-argument structure of source sentences (namely, semantic-role representations) into neural machine translation. 
+    We use Graph Convolutional Networks (GCNs) to inject a semantic bias into sentence encoders and achieve improvements in BLEU scores over the linguistic-agnostic and syntax-aware versions on the English--German language pair.
+  bibtex: >
+    @InProceedings{marcheggiani-bastings-titov:2018:NAACL,
+      author    = {Marcheggiani, Diego  and  Bastings, Joost  and  Titov, Ivan},
+      title     = {Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks},
+      booktitle = {Proceedings of the the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2018)},
+      month     = {June},
+      year      = {2018},
+      address   = {New Orleans, US},
+      publisher = {Association for Computational Linguistics}
+    }
+
