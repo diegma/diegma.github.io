@@ -1,0 +1,16 @@
+-
+  layout: talk
+  selected: y
+  year: 2018
+  id: GCNSRL
+  title: Encoding Linguistic Structures with Graph Convolutional Networks
+  authors: Diego Marcheggiani
+  doc-url: /slides/NLPMeetup2018.pdf
+  slides: /slides/NLPMeetup2018.pdf
+  abstract: >
+    Graph Convolutional Networks (GCNs) is an effective tool for modeling graph-structured data.
+    We investigate their applicability in the context of natural language processing (semantic role labeling and machine translation).
+    We introduce a version of GCNs suited to modeling syntactic and/or semantic dependency graphs and use them to construct linguistically-informed sentence encoders.
+    We demonstrate that using them results in state-of-the-art results on semantic role labeling of English and Chinese and a substantial boost in machine translation performance.
+  about: >
+    Invited talk at the <a href="https://www.meetup.com/South-England-Natural-Language-Processing-Meetup/events/254181976/">South England NLP Meetup</a>.
