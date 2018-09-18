@@ -2,8 +2,34 @@
   layout: paper
   paper-type: inproceedings
   selected: y
+  year: 2018, (to appear)
+  id: MarcheggianiA18
+  title: Deep Graph Convolutional Encoders for Structured Data to Text Generation
+  authors: Diego Marcheggiani, Laura Perez-Beltrachini
+  doc-url: 
+  booktitle: Proceedings of Interational Conference on Natural Language Generation (INLG) 
+  poster: 
+  venue: conference
+
+  abstract: >
+    Most previous work on neural text generation from graph-structured data relies on standard sequence to sequence methods. 
+    These approaches linearise the input graph to be fed to a recurrent neural network. 
+    In this paper, we propose an alternative encoder based on graph convolutional networks that directly ex ploits the input structure. 
+    We report results on two graph to sequence datasets that empirically show the benefits of explicitly encoding the input graph structure.
+  bibtex: >
+    @InProceedings{marcheggiani-perez-beltrachini:2018:INLG,
+      author    = {Marcheggiani, Diego  and  Perez-Beltrachini, Laura},
+      title     = {Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks},
+      booktitle = {Proceedings of the 11th Interational Conference on Natural Language Generation (INLG)},
+      year      = {2018}
+    }
+
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
   year: 2018
-  id: MarcheggianiFT18
+  id: MarcheggianiB18
   title: Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks
   authors: Diego Marcheggiani, Joost Bastings, Ivan Titov
   doc-url: https://arxiv.org/pdf/1804.08313
@@ -25,4 +51,5 @@
       address   = {New Orleans, US},
       publisher = {Association for Computational Linguistics}
     }
+
 
