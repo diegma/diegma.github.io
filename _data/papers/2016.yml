@@ -7,7 +7,7 @@
   title: Discrete-State Variational Autoencoders for Joint Discovery and Factorization of Relations
   authors: Diego Marcheggiani, Ivan Titov
   doc-url: https://transacl.org/ojs/index.php/tacl/article/viewFile/761/190
-  journal: Transaction of the ACL (TACL)
+  journal: Transactions of the ACL (TACL)
   code: https://github.com/diegma/relation-autoencoder
   slides: /slides/acl16.pdf
   venue: journal
