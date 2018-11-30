@@ -2,11 +2,11 @@
   layout: paper
   paper-type: inproceedings
   selected: y
-  year: 2018, (to appear)
+  year: 2018 (Best short paper award)
   id: MarcheggianiA18
   title: Deep Graph Convolutional Encoders for Structured Data to Text Generation
   authors: Diego Marcheggiani, Laura Perez-Beltrachini
-  doc-url: 
+  doc-url: http://aclweb.org/anthology/W18-6501
   booktitle: Proceedings of Interational Conference on Natural Language Generation (INLG) 
   poster: 
   venue: conference
@@ -17,12 +17,17 @@
     In this paper, we propose an alternative encoder based on graph convolutional networks that directly exploits the input structure. 
     We report results on two graph-to-sequence datasets that empirically show the benefits of explicitly encoding the input graph structure.
   bibtex: >
-    @InProceedings{marcheggiani-perez-beltrachini:2018:INLG,
-      author    = {Marcheggiani, Diego  and  Perez-Beltrachini, Laura},
-      title     = {Deep Graph Convolutional Encoders for Structured Data to Text Generation},
-      booktitle = {Proceedings of the 11th Interational Conference on Natural Language Generation (INLG)},
-      year      = {2018}
-    }
+    @InProceedings{W18-6501,
+      author =  "Marcheggiani, Diego and Perez-Beltrachini, Laura",
+      title =   "Deep Graph Convolutional Encoders for Structured Data to Text Generation",
+      booktitle =   "Proceedings of the 11th International Conference on Natural Language Generation",
+      year =  "2018",
+      publisher =   "Association for Computational Linguistics",
+      pages =   "1--9",
+      location =  "Tilburg University, The Netherlands",
+      url =   "http://aclweb.org/anthology/W18-6501"
+}
+
 
 -
   layout: paper

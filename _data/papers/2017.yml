@@ -41,7 +41,7 @@
   id: Marcheggiani17c
   title: Graph Convolutional Encoders for Syntax-aware Neural Machine Translation
   authors: Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima’an
-  doc-url: http://aclweb.org/anthology/D/D17/D17-1208.pdf
+  doc-url: https://www.aclweb.org/anthology/D17-1209.pdf
   booktitle: Proceedings of EMNLP
   venue: conference
   abstract: >
@@ -60,7 +60,7 @@
       address   = {Copenhagen, Denmark},
       publisher = {Association for Computational Linguistics},
       pages     = {1947--1957},
-      url       = {https://www.aclweb.org/anthology/D17-1208}
+      url       = {https://www.aclweb.org/anthology/D17-1209}
     }
 
 -
