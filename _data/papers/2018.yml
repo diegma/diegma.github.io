@@ -8,7 +8,7 @@
   authors: Diego Marcheggiani, Laura Perez-Beltrachini
   doc-url: http://aclweb.org/anthology/W18-6501
   booktitle: Proceedings of Interational Conference on Natural Language Generation (INLG) 
-  poster: 
+  code: https://github.com/diegma/graph-2-text
   venue: conference
 
   abstract: >
