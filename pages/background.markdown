@@ -2,6 +2,8 @@
 layout: default
 ---
 
+From September 2015 to February 2019 I have been a post-doc working with [{{ site.ivantitovstyle }}]({{ site.ivan_titov }}), at the [University of Amsterdam][UvA] and then at the [School of Informatics](http://www.ed.ac.uk/informatics) of the University of Edinburgh.
+
 I obtained my PhD from the University of Venice (Italy) in June 2014.
 
 From September 2009 to July 2015 I have worked as a researcher in the Human Language Technology group at the [Istituto di Scienza e Tecnologie dell'Informazione](http://www.isti.cnr.it) in Pisa, under the guidance of [Fabrizio Sebastiani](http://nmis.isti.cnr.it/sebastiani/) and [Andrea Esuli](http://www.esuli.it).
