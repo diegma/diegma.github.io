@@ -40,7 +40,7 @@
   year: 2017
   id: Marcheggiani17c
   title: Graph Convolutional Encoders for Syntax-aware Neural Machine Translation
-  authors: Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima’an
+  authors: Jasmijn Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima’an
   doc-url: https://www.aclweb.org/anthology/D17-1209.pdf
   booktitle: Proceedings of EMNLP
   venue: conference
@@ -52,7 +52,7 @@
     We evaluate their effectiveness with English-German and English-Czech translation experiments for different types of encoders and observe substantial improvements over their syntax-agnostic versions in all the considered setups.
   bibtex: >
     @InProceedings{bastings-EtAl:2017:EMNLP2017,
-      author    = {Bastings, Joost  and  Titov, Ivan  and  Aziz, Wilker  and  Marcheggiani, Diego  and  Simaan, Khalil},
+      author    = {Bastings, Jasmijn  and  Titov, Ivan  and  Aziz, Wilker  and  Marcheggiani, Diego  and  Simaan, Khalil},
       title     = {Graph Convolutional Encoders for Syntax-aware Neural Machine Translation},
       booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
       month     = {September},
