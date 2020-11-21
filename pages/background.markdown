@@ -2,7 +2,7 @@
 layout: default
 ---
 
-From September 2015 to February 2019 I have been a post-doc working with [{{ site.ivantitovstyle }}]({{ site.ivan_titov }}), at the [University of Amsterdam][UvA] and then at the [School of Informatics](http://www.ed.ac.uk/informatics) of the University of Edinburgh.
+From September 2015 to February 2019 I have been a post-doc working with [{{ site.ivantitovstyle }}]({{site.ivan_titov}}), at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl) of the University of Amsterdam, and then at the [School of Informatics](http://www.ed.ac.uk/informatics) of the University of Edinburgh.
 
 I obtained my PhD from the University of Venice (Italy) in June 2014.
 
@@ -10,4 +10,4 @@ From September 2009 to July 2015 I have worked as a researcher in the Human Lang
 
 In 2009, I graduated from the University of Pisa (Italy) with a Master degree in computer science.
 
-I obtained my BSc degree in computer science from the Universita degli Studi di Perugia (Italy) in 2006.
+I obtained my BSc degree in computer science from the University of Perugia (Italy) in 2006.
