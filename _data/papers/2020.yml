@@ -1,0 +1,36 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2020
+  id: MarcheggianiA20
+  title: Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling
+  authors: Diego Marcheggiani, Ivan Titov
+  doc-url: https://www.aclweb.org/anthology/2020.emnlp-main.322.pdf
+  booktitle: Proceedings of EMNLP
+  venue: conference
+  code: https://github.com/diegma/span-gcn
+  slides: /slides/EMNLP2020Slides.pdf
+  abstract: >
+    Semantic role labeling (SRL) is the task of identifying predicates and labeling argument spans with semantic roles. 
+    Even though most semantic-role formalisms are built upon constituent syntax, and only syntactic constituents can be labeled as arguments (e.g., FrameNet and PropBank), all the recent work on syntax-aware SRL relies on dependency representations of syntax. 
+    In contrast, we show how graph convolutional networks (GCNs) can be used to encode constituent structures and inform an SRL system. 
+    Nodes in our SpanGCN correspond to constituents. The computation is done in 3 stages. 
+    First, initial node representations are produced by ‘composing’ word representations of the first and last words in the constituent. 
+    Second, graph convolutions relying on the constituent tree are performed, yielding syntactically-informed constituent representations. 
+    Finally, the constituent representations are ‘decomposed’ back into word representations, which are used as input to the SRL classifier. 
+    We evaluate SpanGCN against alternatives, including a model using GCNs over dependency trees, and show its effectiveness on standard English SRL benchmarks CoNLL-2005, CoNLL-2012, and FrameNet.
+  bibtex: >
+    @inproceedings{marcheggiani-titov-2020-graph,
+        title = "Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling",
+        author = "Marcheggiani, Diego  and
+          Titov, Ivan",
+        booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        month = nov,
+        year = "2020",
+        address = "Online",
+        publisher = "Association for Computational Linguistics",
+        url = "https://www.aclweb.org/anthology/2020.emnlp-main.322",
+        pages = "3915--3928",
+        abstract = "Semantic role labeling (SRL) is the task of identifying predicates and labeling argument spans with semantic roles. Even though most semantic-role formalisms are built upon constituent syntax, and only syntactic constituents can be labeled as arguments (e.g., FrameNet and PropBank), all the recent work on syntax-aware SRL relies on dependency representations of syntax. In contrast, we show how graph convolutional networks (GCNs) can be used to encode constituent structures and inform an SRL system. Nodes in our SpanGCN correspond to constituents. The computation is done in 3 stages. First, initial node representations are produced by {`}composing{'} word representations of the first and last words in the constituent. Second, graph convolutions relying on the constituent tree are performed, yielding syntactically-informed constituent representations. Finally, the constituent representations are {`}decomposed{'} back into word representations, which are used as input to the SRL classifier. We evaluate SpanGCN against alternatives, including a model using GCNs over dependency trees, and show its effectiveness on standard English SRL benchmarks CoNLL-2005, CoNLL-2012, and FrameNet.",
+    }
