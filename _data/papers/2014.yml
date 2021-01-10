@@ -37,7 +37,7 @@
   authors: Diego Marcheggiani, Oscar Täckström, Andrea Esuli, Fabrizio Sebastiani
   booktitle: Proceedings of the 36th European Conference on IR Research (ECIR)
   doc-url: http://soda.swedish-ict.se/5647/1/ECIR2014a.pdf
-  data: http://nemis.isti.cnr.it/~marcheggiani/datasets/
+  data: https://github.com/diegma/trip-maml/tree/main/EN
   slides: /slides/SlidesECIR2014.pdf
   venue: conference
   abstract: >

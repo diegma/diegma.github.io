@@ -40,7 +40,7 @@
   authors: Giacomo Berardi, Andrea Esuli, Diego Marcheggiani
   booktitle: Proceedings of the 6th Italian Information Retrieval Workshop (IIR)
   doc-url: http://ceur-ws.org/Vol-1404/paper_11.pdf
-  data: http://hlt.isti.cnr.it/wordembeddings/ 
+  data: https://github.com/diegma/italian-word-analogy
   venue: workshop
   abstract: >
     In this paper we present some preliminary results on the generation of word embeddings for the Italian language. 
@@ -73,8 +73,8 @@
   booktitle: Proceedings of the 2015 Conference on Empirical Methods in Natural
                    Language Processing (EMNLP)
   doc-url: http://aclweb.org/anthology/D/D15/D15-1302.pdf
-  data: http://hlt.isti.cnr.it/trip-maml/
-  venue: workshop
+  data: https://github.com/diegma/trip-maml/
+  venue: conference
   abstract: >
     We present the Trip-MAML dataset, a Multi-Lingual dataset of hotel reviews that have been manually annotated at the sentence-level with Multi-Aspect sentiment labels. 
     This dataset has been built as an extension of an existent English-only dataset, adding documents written in Italian and Spanish. 
