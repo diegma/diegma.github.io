@@ -1,0 +1,33 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2023
+  id: GoldA23
+  title: Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages
+  authors: Seraphina Goldfarb-Tarrant, Adam Lopez, Roi Blanco, Diego Marcheggiani
+  doc-url: https://aclanthology.org/2023.findings-acl.272.pdf
+  booktitle: Proceedings of Findings of the ACL
+  venue: conference
+  abstract: >
+    Sentiment analysis (SA) systems are used in many products and hundreds of languages. 
+    Gender and racial biases are well-studied in English SA systems, but understudied in other languages, with few resources for such studies. 
+    To remedy this, we build a counterfactual evaluation corpus for gender and racial/migrant bias in four languages. 
+    We demonstrate its usefulness by answering a simple but important question that an engineer might need to answer when deploying a system: 
+    What biases do systems import from pre-trained models when compared to a baseline with no pre-training? 
+    Our evaluation corpus, by virtue of being counterfactual, not only reveals which models have less bias, but also pinpoints changes in model bias behaviour, which enables more targeted mitigation strategies. 
+    We release our code and evaluation corpora to facilitate future research.
+  bibtex: >
+    @inproceedings{goldfarb-tarrant-etal-2023-bias,
+    title = "Bias Beyond {E}nglish: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages",
+    author = "Goldfarb-Tarrant, Seraphina  and
+      Lopez, Adam  and
+      Blanco, Roi  and
+      Marcheggiani, Diego",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    year = "2023",
+    url = "https://aclanthology.org/2023.findings-acl.272",
+    doi = "10.18653/v1/2023.findings-acl.272",
+    pages = "4458--4468",
+    abstract = "Sentiment analysis (SA) systems are used in many products and hundreds of languages. Gender and racial biases are well-studied in English SA systems, but understudied in other languages, with few resources for such studies. To remedy this, we build a counterfactual evaluation corpus for gender and racial/migrant bias in four languages. We demonstrate its usefulness by answering a simple but important question that an engineer might need to answer when deploying a system: What biases do systems import from pre-trained models when compared to a baseline with no pre-training? Our evaluation corpus, by virtue of being counterfactual, not only reveals which models have less bias, but also pinpoints changes in model bias behaviour, which enables more targeted mitigation strategies. We release our code and evaluation corpora to facilitate future research.",
+}
