@@ -14,8 +14,8 @@ Applied Scientist, March 2019 to April 2022.
 
 - Led the science for bringing customer review insights into the AI Overviews in Amazon search.
 - Worked on the science behind [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai),
-  the "Customers say" summaries on Amazon product pages. Launched in 2023 and since
-  [expanded](https://www.aboutamazon.com/news/retail/amazon-ai-generated-review-highlights) to the U.S., UK, India, Australia, Singapore and the UAE.
+  the "Customers say" summaries on Amazon product pages. Launched in the U.S. in 2023 and since
+  [expanded](https://www.aboutamazon.com/news/retail/amazon-ai-generated-review-highlights) to the UK, India, Australia, Singapore and the UAE.
   I worked across every stage of the pipeline, from extracting opinions from reviews to generating the summaries.
 - Applied research on summarization, multilinguality, and automatic evaluation of LLMs,
   with papers in Findings of ACL 2023 and EMNLP 2026.
