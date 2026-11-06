@@ -8,8 +8,8 @@ I'm a Senior Applied Scientist at Amazon in Barcelona, where I have worked since
 Most recently I led the science for bringing customer review insights into the AI Overviews in Amazon search.
 Before that I worked on the science behind the [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai)
 shown on Amazon product pages.
-I also mentor interns and do applied research, currently on the automatic evaluation of LLMs
-(see my EMNLP 2026 papers below). My interests include summarization, multilinguality, and LLM evaluation.
+I also develop LLM-as-a-judge methods for evaluating LLMs, used both internally and in research
+(see my EMNLP 2026 papers below), and mentor applied science interns.
 
 Before Amazon I worked in NLP research. I was a researcher at ISTI-CNR in Pisa, where I also
 did my PhD with the University of Venice, and then a postdoc with Ivan Titov at the University

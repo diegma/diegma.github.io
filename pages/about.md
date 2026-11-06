@@ -9,7 +9,7 @@ I spent ten years in academic research before joining Amazon in 2019.
 
 ### Industry
 
-**Amazon**, Barcelona. Senior Applied Scientist (Machine Learning / NLP), April 2022 to present;
+**Amazon**, Barcelona. Senior Applied Scientist, April 2022 to present;
 Applied Scientist, March 2019 to April 2022.
 
 - Led the science for bringing customer review insights into the AI Overviews in Amazon search.
@@ -17,8 +17,8 @@ Applied Scientist, March 2019 to April 2022.
   the "Customers say" summaries on Amazon product pages. Launched in the U.S. in 2023 and since
   [expanded](https://www.aboutamazon.com/news/retail/amazon-ai-generated-review-highlights) to the UK, India, Australia, Singapore and the UAE.
   I worked across every stage of the pipeline, from extracting opinions from reviews to generating the summaries.
-- Applied research on summarization, multilinguality, and automatic evaluation of LLMs,
-  with papers at EMNLP 2026.
+- LLM-as-a-judge methods for evaluating LLMs, used internally and published at EMNLP 2026:
+  when LLM judges can stand in for human evaluators, and how to capture the ways humans disagree.
 - Mentoring applied science interns.
 
 ### Research
