@@ -11,8 +11,5 @@ github_username: diegma
 linkedin_url: https://www.linkedin.com/in/diegomarcheggiani/
 google_scholar_url: https://scholar.google.com/citations?user=5DqZ8l4AAAAJ
 
-# CV
-cv: "cv/DMCV.pdf"
-
 # Build settings
 markdown: kramdown

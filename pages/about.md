@@ -42,3 +42,14 @@ Applied Scientist, March 2019 to April 2022.
 - PhD in Computer Science, University of Venice (Ca' Foscari), 2014
 - MSc in Computer Science, University of Pisa, 2009
 - BSc in Computer Science, University of Perugia, 2006
+
+### Talks
+
+{% capture talk_years %}{% for y in site.data.talks %}{{ y[0] }} {% endfor %}{% endcapture -%}
+{%- assign talk_years = talk_years | split: " " | sort | reverse -%}
+<ul>
+{%- for year in talk_years -%}{%- for talk in site.data.talks[year] -%}
+{%- assign slides_file = site.static_files | where: "path", talk.slides | first %}
+<li>{% if slides_file %}<a href="{{ talk.slides | prepend: site.baseurl }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}<br><small>{{ talk.about | strip }} {{ talk.year }}.</small></li>
+{%- endfor -%}{%- endfor %}
+</ul>

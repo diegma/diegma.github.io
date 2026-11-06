@@ -3,7 +3,6 @@
   layout: paper
   paper-type: inproceedings
   selected: y
-  highlight: y
   year: 2017
   id: Marcheggiani17b
   title: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling
