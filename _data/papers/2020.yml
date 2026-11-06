@@ -2,6 +2,7 @@
   layout: paper
   paper-type: inproceedings
   selected: y
+  highlight: y
   year: 2020
   id: MarcheggianiA20
   title: Graph Convolutions over Constituent Trees for Syntax-Aware Semantic Role Labeling

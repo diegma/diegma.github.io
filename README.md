@@ -1,6 +1,8 @@
-# Personal pages
+# diegma.github.io
 
-* [Github Page](http://diegma.github.io)
+Source of [diegma.github.io](https://diegma.github.io), a Jekyll site served by GitHub Pages.
 
-* [Google scholar](https://scholar.google.it/citations?user=5DqZ8l4AAAAJ&hl=en)
+- Publications: `_data/papers/<year>.yml` (`highlight: y` puts a paper on the home page)
+- Talks: `_data/talks/<year>.yml`
 
+Run locally with `bundle exec jekyll serve`.

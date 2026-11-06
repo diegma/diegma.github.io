@@ -1,41 +1,43 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-<!--            <a href="{{ site.departamental_page }}">
-                <img src="image/UoS.ico" alt="DCS"> {{ site.current_department }}
-            </a>-->
-
-            <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
-        <table >
+        <table>
           <tr class="contact-list">
             <td>
               <div class="media">
-                <a class="pull-left thumbnail" href="mailto:diego.marcheggiani@gmail.com">
-                  <img src="/img/ico/gmail.png" alt=""/>
+                <a class="pull-left thumbnail" href="{{ site.linkedin_url }}" title="LinkedIn">
+                  <svg width="16" height="16" viewBox="0 0 24 24" role="img" aria-label="LinkedIn"><path fill="#0A66C2" d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg>
                 </a>
               </div>
             </td>
             <td>
               <div class="media">
-                <a class="pull-left thumbnail" href="https://scholar.google.it/citations?user=5DqZ8l4AAAAJ">
-                  <img src="/img/ico/gs.png" alt=""/>
+                <a class="pull-left thumbnail" href="mailto:{{ site.email }}" title="Email">
+                  <img src="/img/ico/gmail.png" alt="Email"/>
                 </a>
               </div>
             </td>
             <td>
               <div class="media">
-                <a class="pull-left thumbnail" href="https://github.com/diegma">
-                  <img src="/img/ico/github.png" alt=""/>
+                <a class="pull-left thumbnail" href="{{ site.google_scholar_url }}" title="Google Scholar">
+                  <img src="/img/ico/gs.png" alt="Google Scholar"/>
                 </a>
               </div>
             </td>
             <td>
               <div class="media">
-                <a class="pull-left thumbnail" href="https://twitter.com/DieEmme">
-                  <img src="/img/ico/twitter.png" alt=""/>
+                <a class="pull-left thumbnail" href="https://github.com/{{ site.github_username }}" title="GitHub">
+                  <img src="/img/ico/github.png" alt="GitHub"/>
+                </a>
+              </div>
+            </td>
+            <td>
+              <div class="media">
+                <a class="pull-left thumbnail" href="https://x.com/{{ site.twitter_username }}" title="X (Twitter)">
+                  <img src="/img/ico/twitter.png" alt="X (Twitter)"/>
                 </a>
               </div>
             </td>
@@ -47,7 +49,6 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-          <p class="text" align="right">Last updated {{ site.time | date: "%B %d, %Y" }}.</p>
       </div>
     </div>
 

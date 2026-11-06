@@ -1,32 +1,19 @@
 # Site settings
-exclude: [README.md]
+exclude: [README.md, Gemfile, Gemfile.lock]
 title: Diego Marcheggiani
 email: diego.marcheggiani@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-    Here you will find details about my work.
+description: >
+    Diego Marcheggiani, Senior Applied Scientist at Amazon in Barcelona,
+    working on NLP and large language models.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://diegma.github.io" # the base hostname & protocol for your site
+url: "https://diegma.github.io"
 twitter_username: DieEmme
-github_username:  diegma
-#paginate: 3
+github_username: diegma
+linkedin_url: https://www.linkedin.com/in/diegomarcheggiani/
+google_scholar_url: https://scholar.google.com/citations?user=5DqZ8l4AAAAJ
 
 # CV
 cv: "cv/DMCV.pdf"
-
-# current department
-current_department: ILLC
-departamental_page: http://diegma.github.io/dcs-site
-current_dpt_email: marcheggiani@uva.nl
-
-# useful links
-google_scholar_url: https://scholar.google.it/citations?user=5DqZ8l4AAAAJ&hl=en
-dcs_page: http://diegma.github.io/dcs-site
-
-ivan_titov: http://ivan-titov.org/
-illc_url: http://www.illc.uva.nl
-uva_url: http://www.uva.nl/en/home
-
-ivantitovstyle: Ivan Titov
 
 # Build settings
 markdown: kramdown

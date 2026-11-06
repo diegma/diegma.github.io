@@ -6,10 +6,11 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
+    {% if page.layout == "photolist" %}
+    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/bootstrap-glyphicons.css" | prepend: site.baseurl }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script> -->
-
-    {% include analytics.html %}
 </head>
