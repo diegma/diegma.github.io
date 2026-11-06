@@ -14,11 +14,11 @@ Applied Scientist, March 2019 to April 2022.
 
 - Led the science for bringing customer review insights into the AI Overviews in Amazon search.
 - Worked on the science behind [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai),
-  the "Customers say" summaries on Amazon product pages. I worked across every stage of the pipeline:
-  extracting opinions from reviews, clustering and naming them, and summarizing them, in many languages, not only English.
-  Launched in the U.S. in 2023 and since expanded to Amazon marketplaces worldwide.
-- LLM-as-a-judge methods for evaluating LLMs, used internally and published at EMNLP 2026:
-  when LLM judges can stand in for human evaluators, and how to capture the ways humans disagree.
+  the "Customers say" summaries on Amazon product pages. I contributed to every part of the multilingual
+  system that turns millions of reviews into these summaries. Launched in the U.S. in 2023 and since
+  expanded to Amazon marketplaces worldwide.
+- LLM-as-a-judge methods to evaluate LLMs, for internal use and in research published at EMNLP 2026.
+  My recent work studies when LLM judges can stand in for human evaluators, and how to capture the ways humans disagree.
 - Mentoring applied science interns.
 
 ### Research
@@ -27,7 +27,8 @@ Applied Scientist, March 2019 to April 2022.
 
 - Worked with [Ivan Titov](http://ivan-titov.org/) at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl),
   and from July 2017 as a visiting researcher at the [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh.
-- Graph neural networks for semantic role labeling, machine translation, and text generation.
+- Graph neural networks for semantic role labeling, machine translation, and text generation
+  (best short paper award at INLG 2018).
 
 **ISTI-CNR**, Pisa. Machine learning and NLP researcher, September 2009 to July 2015.
 
