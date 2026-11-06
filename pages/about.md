@@ -6,10 +6,13 @@ permalink: /about/
 
 ### Industry
 
-**Amazon**, Barcelona (2019 to present).
-Senior Applied Scientist working on NLP and large language models:
-summarization, multilinguality, and automatic evaluation of LLMs.
-<!-- TODO: add roles/titles, teams and dates, plus public launches (e.g. generative-AI review summaries). -->
+**Amazon**, Barcelona (2019 to present), Senior Applied Scientist.
+
+- Extracting and summarizing information from customer reviews, including the
+  generative-AI review summaries launched on amazon.com.
+- Applied research on summarization, multilinguality, and automatic evaluation of LLMs,
+  published at venues such as ACL and EMNLP.
+- Mentoring applied science interns.
 
 ### Research
 

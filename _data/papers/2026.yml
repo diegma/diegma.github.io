@@ -1,4 +1,3 @@
-# TODO: verify authors, venues and add links (taken from Google Scholar on 2026-11-06).
 -
   layout: paper
   paper-type: inproceedings
@@ -7,8 +6,11 @@
   year: 2026
   id: SteindlTaskDecomp26
   title: Does Task Decomposition Improve Automatic NLG Evaluation?
-  authors: S. Steindl, N. Voskarides, A. Gasparin, Diego Marcheggiani
+  authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin, Diego Marcheggiani
+  doc-url: https://aclanthology.org/2026.emnlp-main.447.pdf
   booktitle: Proceedings of EMNLP
+  booktitle-url: https://aclanthology.org/2026.emnlp-main.447/
+  pages: 10288--10301
   venue: conference
 -
   layout: paper
@@ -18,16 +20,9 @@
   year: 2026
   id: SteindlLLMJudges26
   title: Post-hoc Alignment of LLM-Judges to Human Judgment Distribution
-  authors: S. Steindl, N. Voskarides, A. Gasparin, Diego Marcheggiani
+  authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin, Diego Marcheggiani
+  doc-url: https://aclanthology.org/2026.emnlp-main.436.pdf
   booktitle: Proceedings of EMNLP
+  booktitle-url: https://aclanthology.org/2026.emnlp-main.436/
+  pages: 10014--10037
   venue: conference
--
-  layout: paper
-  paper-type: misc
-  selected: y
-  year: 2026
-  id: SteindlPersonaAB26
-  title: Data-driven Persona-conditioned Agents for A/B Test Simulation
-  authors: S. Steindl, N. Voskarides, A. Gasparin, Diego Marcheggiani
-  venue: preprint
-  note: Preprint

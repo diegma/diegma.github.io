@@ -5,10 +5,10 @@ layout: default
 ![Portrait of Diego Marcheggiani](/img/people/diego.jpg){: style="float: right; margin: 0px 20px; width: 250px; height: 229px" }
 
 I'm a Senior Applied Scientist at Amazon in Barcelona, where I have worked since 2019.
-I build NLP and large language model systems that ship in Amazon products,
-most recently generative-AI review summaries on amazon.com.
-My current focus is summarization, multilinguality, and the automatic evaluation of LLMs.
-<!-- TODO: confirm the start year, team/area, and that the review-summaries project is OK to mention publicly. -->
+Since joining I have worked on extracting and summarizing information from customer reviews,
+including the generative-AI review summaries on amazon.com.
+I also mentor interns and do applied research, currently on the automatic evaluation of LLMs
+(see my EMNLP 2026 papers below). My interests include summarization, multilinguality, and LLM evaluation.
 
 Before Amazon I worked in NLP research. I did a PhD at the University of Venice and spent
 several years at ISTI-CNR in Pisa, then held postdocs in Amsterdam and Edinburgh with Ivan Titov.
