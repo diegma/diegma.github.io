@@ -11,8 +11,9 @@ shown on Amazon product pages.
 I also mentor interns and do applied research, currently on the automatic evaluation of LLMs
 (see my EMNLP 2026 papers below). My interests include summarization, multilinguality, and LLM evaluation.
 
-Before Amazon I worked in NLP research. I did a PhD at the University of Venice and spent
-several years at ISTI-CNR in Pisa, then held postdocs in Amsterdam and Edinburgh with Ivan Titov.
+Before Amazon I worked in NLP research. I was a researcher at ISTI-CNR in Pisa, where I also
+did my PhD with the University of Venice, and then a postdoc with Ivan Titov at the University
+of Amsterdam, including a visiting period at the University of Edinburgh.
 More in my [About]({{ site.baseurl }}/about/) page and my [CV]({{ site.baseurl }}/{{ site.cv }}).
 
 ### Selected publications

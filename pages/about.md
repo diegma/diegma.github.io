@@ -31,6 +31,7 @@ Applied Scientist, March 2019 to April 2022.
 **ISTI-CNR**, Pisa. Machine learning and NLP researcher, September 2009 to July 2015.
 
 - Human Language Technology group, working with Fabrizio Sebastiani and Andrea Esuli.
+- PhD in Computer Science (University of Venice, Ca' Foscari, 2014), completed while at ISTI-CNR.
 - Information extraction, opinion mining, and active learning.
 - Visiting researcher at the University of Amsterdam, September to November 2014.
 
