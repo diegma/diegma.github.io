@@ -18,7 +18,7 @@ Applied Scientist, March 2019 to April 2022.
   [expanded](https://www.aboutamazon.com/news/retail/amazon-ai-generated-review-highlights) to the UK, India, Australia, Singapore and the UAE.
   I worked across every stage of the pipeline, from extracting opinions from reviews to generating the summaries.
 - Applied research on summarization, multilinguality, and automatic evaluation of LLMs,
-  with papers in Findings of ACL 2023 and EMNLP 2026.
+  with papers at EMNLP 2026.
 - Mentoring applied science interns.
 
 ### Research

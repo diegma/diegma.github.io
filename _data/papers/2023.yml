@@ -2,7 +2,6 @@
   layout: paper
   paper-type: inproceedings
   selected: y
-  highlight: y
   year: 2023
   id: GoldA23
   title: "Bias Beyond English: Counterfactual Tests for Bias in Sentiment Analysis in Four Languages"
