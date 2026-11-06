@@ -9,7 +9,8 @@ I spent ten years in academic research before joining Amazon in 2019.
 
 ### Industry
 
-**Amazon**, Barcelona. Senior Applied Scientist, 2019 to present.
+**Amazon**, Barcelona. Senior Applied Scientist (Machine Learning / NLP), April 2022 to present;
+Applied Scientist, March 2019 to April 2022.
 
 - Four years on the science behind [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai),
   the "Customers say" summaries on Amazon product pages. Launched in 2023 and since
@@ -21,19 +22,20 @@ I spent ten years in academic research before joining Amazon in 2019.
 
 ### Research
 
-**University of Amsterdam and University of Edinburgh**. Postdoctoral researcher, 2015 to 2019.
+**University of Amsterdam**. Postdoctoral researcher in NLP, September 2015 to February 2019.
 
-- Worked with [Ivan Titov](http://ivan-titov.org/), first at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl)
-  in Amsterdam, then at the [School of Informatics](https://www.ed.ac.uk/informatics) in Edinburgh.
+- Worked with [Ivan Titov](http://ivan-titov.org/) at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl),
+  and from July 2017 as a visiting researcher at the [School of Informatics](https://www.ed.ac.uk/informatics), University of Edinburgh.
 - Graph neural networks for semantic role labeling, machine translation, and text generation.
 
-**ISTI-CNR**, Pisa. Researcher, 2009 to 2015.
+**ISTI-CNR**, Pisa. Machine learning and NLP researcher, September 2009 to July 2015.
 
 - Human Language Technology group, working with Fabrizio Sebastiani and Andrea Esuli.
 - Information extraction, opinion mining, and active learning.
+- Visiting researcher at the University of Amsterdam, September to November 2014.
 
 ### Education
 
-- PhD, University of Venice (Ca' Foscari), 2014
+- PhD in Computer Science, University of Venice (Ca' Foscari), 2014
 - MSc in Computer Science, University of Pisa, 2009
 - BSc in Computer Science, University of Perugia, 2006
