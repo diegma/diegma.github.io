@@ -11,5 +11,14 @@ github_username: diegma
 linkedin_url: https://www.linkedin.com/in/diegomarcheggiani/
 google_scholar_url: https://scholar.google.com/citations?user=5DqZ8l4AAAAJ
 
+# Navigation (in order)
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Publications
+    url: /publications.html
+
 # Build settings
 markdown: kramdown
