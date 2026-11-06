@@ -11,8 +11,10 @@ I spent ten years in academic research before joining Amazon in 2019.
 
 **Amazon**, Barcelona. Senior Applied Scientist, 2019 to present.
 
-- Extracting and summarizing information from customer reviews. I contributed to the
-  generative-AI review summaries launched on amazon.com.
+- Four years on the science behind [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai),
+  the "Customers say" summaries on Amazon product pages. Launched in 2023 and since
+  [expanded](https://www.aboutamazon.com/news/retail/amazon-ai-generated-review-highlights) to the U.S., UK, India, Australia, Singapore and the UAE.
+  I worked across every stage of the pipeline, from extracting opinions from reviews to generating the summaries.
 - Applied research on summarization, multilinguality, and automatic evaluation of LLMs,
   with papers in Findings of ACL 2023 and EMNLP 2026.
 - Mentoring applied science interns.

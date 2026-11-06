@@ -6,7 +6,8 @@ layout: default
 
 I'm a Senior Applied Scientist at Amazon in Barcelona, where I have worked since 2019.
 Since joining I have worked on extracting and summarizing information from customer reviews,
-including the generative-AI review summaries on amazon.com.
+including four years on the science behind the [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai)
+shown on Amazon product pages.
 I also mentor interns and do applied research, currently on the automatic evaluation of LLMs
 (see my EMNLP 2026 papers below). My interests include summarization, multilinguality, and LLM evaluation.
 
