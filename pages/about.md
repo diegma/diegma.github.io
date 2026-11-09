@@ -12,7 +12,7 @@ I spent ten years in academic research before joining Amazon in 2019.
 **Amazon**, Barcelona. Senior Applied Scientist, April 2022 to present;
 Applied Scientist, March 2019 to April 2022.
 
-- Led the science for bringing customer review insights into the AI Overviews in Amazon search.
+- Led the science for bringing customer review insights into the [AI Overviews in Amazon search](https://www.aboutamazon.com/news/retail/how-to-use-amazon-shopping-ai-assistant).
 - Worked on the science behind [AI-generated review highlights](https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai),
   the "Customers say" summaries on Amazon product pages. I contributed to every part of the multilingual
   system that turns millions of reviews into these summaries. Launched in the U.S. in 2023 and since
