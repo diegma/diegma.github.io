@@ -1,0 +1,70 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  highlight: y
+  year: 2026
+  id: SteindlTaskDecomp26
+  title: Does Task Decomposition Improve Automatic NLG Evaluation?
+  authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin, Diego Marcheggiani
+  doc-url: https://aclanthology.org/2026.emnlp-main.447.pdf
+  booktitle: Proceedings of EMNLP
+  venue: conference
+  abstract: >
+    The LLM-as-a-judge (LLMaJ) framework has emerged as a promising solution for cheap, reproducible, reference-free Natural Language Generation (NLG) evaluation. Prior work seeks to improve LLMaJ by decomposing evaluation tasks into simpler sub-tasks. In this work, we systematically compare LLMaJ methods with and without decomposition on multiple NLG datasets. We find no evidence that LLMaJ with task decomposition leads to performance gains over a fair baseline that does not use decomposition. Instead, we find that previously reported performance gains in decomposition-based LLMaJ stem from using human labels as training data, and not task decomposition itself. Also, we find that, when human labels are available, LLMaJ without using task decomposition can perform comparably to human annotators.
+  bibtex: >
+    @inproceedings{steindl-etal-2026-task,
+        title = "Does task decomposition improve automatic {NLG} evaluation?",
+        author = "Steindl, Sebastian  and
+          Voskarides, Nikos  and
+          Gasparin, Alberto  and
+          Marcheggiani, Diego",
+        editor = "Lee, Hung-Yi  and
+          Dev, Sunipa  and
+          Li, Junyi Jessy  and
+          Elliott, Desmond",
+        booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+        month = oct,
+        year = "2026",
+        address = "Budapest, Hungary",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2026.emnlp-main.447/",
+        doi = "10.18653/2026.emnlp-main.447",
+        pages = "10288--10301",
+        ISBN = "979-8-89176-459-0"
+    }
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  highlight: y
+  year: 2026
+  id: SteindlLLMJudges26
+  title: Post-hoc Alignment of LLM-Judges to Human Judgment Distribution
+  authors: Sebastian Steindl, Nikos Voskarides, Alberto Gasparin, Diego Marcheggiani
+  doc-url: https://aclanthology.org/2026.emnlp-main.436.pdf
+  booktitle: Proceedings of EMNLP
+  venue: conference
+  abstract: >
+    The LLM-as-a-judge (LLMaJ) framework offers a cost-effective and reproducible solution for automatic evaluation. However, current evaluation practices typically compare LLMaJ judgments against aggregated ground-truth labels, overlooking the valuable information contained in Human Label Variation (HLV). Inspired by an increasing line of work that proposes to leverage HLV, we systematically study LLMaJ performance on predicting both a single, aggregated ground truth hard-label and unaggregated soft-labels that represent Human Judgment Distributions (HJD). Our results across five diverse datasets reveal that while LLMs achieve near human-level performance at hard-label prediction on most tasks, they exhibit poor performance when predicting soft-labels. To address this limitation, we propose NAPHA (eNtropy-Aware Post-Hoc Alignment), a simple yet effective lightweight post-hoc alignment method that matches the LLM distribution to the HJD by first assigning an instance to a discrete entropy class and then routing it to specialized, trained alignment models. We find that NAPHA consistently improves soft-labels prediction across base LLM models and datasets, with particularly strong gains on high-entropy instances where capturing diverse human perspectives is most critical. We also show via oracle experiments that improving entropy class prediction can substantially enhance NAPHA’s practical effectiveness.
+  bibtex: >
+    @inproceedings{steindl-etal-2026-post,
+        title = "Post-hoc Alignment of {LLM}-judges to Human Judgment Distribution",
+        author = "Steindl, Sebastian  and
+          Voskarides, Nikos  and
+          Gasparin, Alberto  and
+          Marcheggiani, Diego",
+        editor = "Lee, Hung-Yi  and
+          Dev, Sunipa  and
+          Li, Junyi Jessy  and
+          Elliott, Desmond",
+        booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+        month = oct,
+        year = "2026",
+        address = "Budapest, Hungary",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2026.emnlp-main.436/",
+        doi = "10.18653/2026.emnlp-main.436",
+        pages = "10014--10037",
+        ISBN = "979-8-89176-459-0"
+    }
